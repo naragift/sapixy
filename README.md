@@ -33,7 +33,7 @@ This project focuses on the implementation of numerical methods in Python for im
 ![no-bg](result-side-by-side/input-image.jpg)  ![no-bg](result-side-by-side/background-cow.jpg)
 
 ## Sample Outputs:
-![no-bg](result-side-by-side/edge-segmentation.jpg)  ![no-bg](result-side-by-side/background-segmented.jpg)jpg)
+![no-bg](result-side-by-side/edge-segmentation.jpg)  ![no-bg](result-side-by-side/background-segmented.jpg)
 
 ## How to Run:
 1. Clone the project using the following command:
