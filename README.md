@@ -38,7 +38,7 @@ This project focuses on the implementation of numerical methods in Python for im
 ## How to Run:
 1. Clone the project using the following command:
 ```
-git clone
+git clone https://github.com/naragift/sapixy.git
 ```
 
 2. Run the project using google colab or jupyter notebook.
